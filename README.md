@@ -47,7 +47,7 @@ According to the Price vs. Waterfront bar graph, a house on the water has a high
 
 ### Linear Regression Model:
 
-Model 2 was the best model with the highest R^2 value, the coefficient of determination, with a value of 0.819681. That means that there is 81.9681% less variation around the best fit line than the mean.
+Model 2 was the best model with the highest R^2 value, the coefficient of determination, with a value of 0.819681. That means that there is 81.9681% less variation around the best fit line than the mean. In other words, the model explains 81.9681% of the variation in the data.
 
 ![alt text](images/coefficients.png "Coefficients of Model 2")
 
